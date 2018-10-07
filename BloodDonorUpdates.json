@@ -1,10 +1,12 @@
-[
+{
+    "data": [
     {
-      title: 'First',
-      content: 'hiiiiii'
+      "title": "First",
+      "content": "hiiiiii"
     },
     {
-      title: 'Second',
-      content: 'helllooo'
+      "title": "Second",
+      "content": "helllooo"
     }
   ]
+}
