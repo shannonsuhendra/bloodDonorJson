@@ -3,18 +3,33 @@
     {
         "title": "5 August 2018",
         "content": "99 donors, 76 successful donors",
-        "content": "Blood group: 11 A bags, 25 B bags, 4 AB bags, 36 O bags, 76 pos bags, 0 neg bags"
+        "A": 11,
+        "B": 25,
+        "AB": 4,
+        "O": 36,
+        "positive": 76,
+        "negative": 0
     },
     {
-      "title": "6 May 2018",
-      "content": "86 donors, 58 successful donors",
-      "content": "Blood group: 7 A bags, 18 B bags, 5 AB bags, 28 O bags, 58 pos bags, 0 neg bags"
+        "title": "6 May 2018",
+        "content": "86 donors, 58 successful donors",
+        "A": 7,
+        "B": 18,
+        "AB": 5,
+        "O": 28,
+        "positive": 58,
+        "negative": 0
+      
     },
     {
-      "title": "25 February 2018",
-      "content": "83 donors, 59 successful donors",
-      "content": "Blood group: 12 A bags, 23 B bags, 5 AB bags, 19 O bags"
-    },
-    
+        "title": "25 February 2018",
+        "content": "83 donors, 59 successful donors",
+        "A": 12,
+        "B": 23,
+        "AB": 5,
+        "O": 19,
+        "positive": "~",
+        "negative": "~"
+    }
   ]
 }
