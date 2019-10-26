@@ -1,6 +1,16 @@
 {
     "data": [
     {
+        "title": "4 August 2019",
+        "content": "87 donors, 62 successful donors",
+        "A": 14,
+        "B": 21,
+        "AB": 2,
+        "O": 25,
+        "positive": "~",
+        "negative": "~"
+    },
+    {
         "title": "17 February 2019",
         "content": "94 donors, 73 successful donors",
         "A": 10,
